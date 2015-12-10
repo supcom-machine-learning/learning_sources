@@ -1,8 +1,8 @@
-# learning_sources
+#Machine learning resources: 
 This repository holds the list of learning material that we are finding useful within the activities of the Sup'Com machine learning group. The sources will range over MOOCs, blog articles, books, videos, papers, etc. 
 
 
-##Advanced>> Deep learning: 
+###Advanced - Deep learning: 
 
  - MIT press book on Deep learning (under preparation)
  	- Link https://goodfeli.github.io/dlbook/ 
