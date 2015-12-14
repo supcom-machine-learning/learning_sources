@@ -13,4 +13,5 @@ This repository holds the list of learning material that we are finding useful w
 
 
 ###Recommended readings: 
-	- The Master Algorithm: "How the quest for the ultimate learning machine will remake our world" - Author, Pedro Domingos. 
+ 
+ - The Master Algorithm: "How the quest for the ultimate learning machine will remake our world" - Author, Pedro Domingos. 
