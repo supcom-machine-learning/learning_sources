@@ -7,3 +7,10 @@ This repository holds the list of learning material that we are finding useful w
  - MIT press book on Deep learning (under preparation)
  	- Link https://goodfeli.github.io/dlbook/ 
 
+###Other ML learning lists: 
+
+ - http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/
+
+
+###Recommended readings: 
+	- The Master Algorithm: "How the quest for the ultimate learning machine will remake our world" - Author, Pedro Domingos. 
