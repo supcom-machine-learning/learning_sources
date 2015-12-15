@@ -4,8 +4,12 @@ This repository holds the list of learning material that we are finding useful w
 ###Beginner - Machine learning: 
 	
  - Udacity course: Intro to machine learning. 
- 	- link: https://www.udacity.com/course/intro-to-machine-learning--ud120
- 	- description: presents an easy introduction to machine learning with hands on implementation using sklearn. 
+ 	- Link: https://www.udacity.com/course/intro-to-machine-learning--ud120
+ 	- Description: presents an easy introduction to machine learning with hands on implementation using sklearn. 
+
+ - Top 10 Data mining algorithms explained
+ 	- Link: http://www.kdnuggets.com/2015/05/top-10-data-mining-algorithms-explained.html
+ 	- Description: presents a non technical, easy to grasp, explanation of the top 10 data mining algorithms. 
 
 ###Advanced - Deep learning: 
 
