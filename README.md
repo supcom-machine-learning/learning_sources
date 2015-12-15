@@ -13,6 +13,8 @@ This repository holds the list of learning material that we are finding useful w
  	- Link http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/
  - MIT press book on Deep learning (under preparation)
  	- Link https://goodfeli.github.io/dlbook/ 
+ - Evaluation of Deep learning toolkits: 
+ 	- Link https://github.com/zer0n/deepframeworks/blob/master/README.md
 
 ###Other ML learning lists: 
 
