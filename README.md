@@ -1,5 +1,5 @@
 #Machine learning resources: 
-This repository holds the list of learning material that we are finding useful within the activities of the Sup'Com machine learning group. The sources will range over MOOCs, blog articles, books, videos, papers, etc. 
+This repository holds the list of learning material that we are finding useful within the activities of the Sup'Com machine learning group. The resources range over MOOCs, blog articles, books, videos, papers, etc. 
 
 ###Beginner - Machine learning: 
 	
@@ -20,11 +20,11 @@ This repository holds the list of learning material that we are finding useful w
  - Evaluation of Deep learning toolkits: 
  	- Link https://github.com/zer0n/deepframeworks/blob/master/README.md
 
-###Other ML learning lists: 
-
- - http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/
-
-
 ###Recommended readings: 
  
  - The Master Algorithm: "How the quest for the ultimate learning machine will remake our world" - Author, Pedro Domingos. 
+
+
+###Other ML learning lists: 
+
+ - http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/
