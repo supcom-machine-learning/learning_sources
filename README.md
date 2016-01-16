@@ -27,6 +27,9 @@ This repository holds the list of learning material that we are finding useful w
  - Recognizing and Localizing Endangered Right Whales with Extremely Deep Neural Networks
  	- Link: http://felixlaumon.github.io/2015/01/08/kaggle-right-whale.html
  	- Description: Kaggle competition write up for second place model 
+ - How We Approached The Allen A.I. Challenge on Kaggle
+  	- Link: http://blog.talla.com/2016/01/how-we-approached-the-allen-a-i-challenge-on-kaggle/
+  	- Description: kaggle competition write up 
 
 ###Advanced - Deep learning: 
 
@@ -46,6 +49,9 @@ This repository holds the list of learning material that we are finding useful w
  - Yelp: How we use deep learning to classify photos: 
  	- Link: http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html 
  	- Description: Application of Deep learning for image classification. 
+ - Using Convolutional Neural Networks (CNN) for Image Recognition
+ 	- Link: http://ip.cadence.com/uploads/901/cnn_wp-pdf 
+ 	- Description: a Tutorial from Cadence systems on how to use CNN for traffic signs recognition 
 
 ###Recommended readings: 
  
