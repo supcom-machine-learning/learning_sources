@@ -33,7 +33,10 @@ This repository holds the list of learning material that we are finding useful w
 
  - Deep learning simplified: 
  	- Link: https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/playlists: 
- 	- Description: an easy to grasp simplification of deep learning concepts. 
+ 	- Description: an easy to grasp simplification of deep learning concepts.
+ - Deep learning in Nutshell: History and training 
+ 	- Link: http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-history-training/
+ 	- Description: Nvidia blog tutorial explaining deep learning  
  - Theoretical motivations for Deep learning 
  	- Link http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/
  - MIT press book on Deep learning (under preparation)
