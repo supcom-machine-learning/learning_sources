@@ -20,8 +20,15 @@ This repository holds the list of learning material that we are finding useful w
  	- Link: http://www.kdnuggets.com/2016/01/questions-data-science-answer.html
  	- Description: simple formulation of the questions that data science can answer. 
 
-###Advanced - Deep learning: 
+### Practical - Data science/Machine learning tutorials 
 
+ - Predicting Heart Disease With Hadoop, Spark and Python
+ 	- Link: http://nasdag.github.io/blog/2016/01/02/predicting-heart-disease-with-hadoop-spark-and-python/
+ - Recognizing and Localizing Endangered Right Whales with Extremely Deep Neural Networks
+ 	- Link: http://felixlaumon.github.io/2015/01/08/kaggle-right-whale.html
+ 	- Description: Kaggle competition write up for second place model 
+
+###Advanced - Deep learning: 
 
 
  - Deep learning simplified: 
@@ -33,6 +40,9 @@ This repository holds the list of learning material that we are finding useful w
  	- Link https://goodfeli.github.io/dlbook/ 
  - Evaluation of Deep learning toolkits: 
  	- Link https://github.com/zer0n/deepframeworks/blob/master/README.md
+ - Yelp: How we use deep learning to classify photos: 
+ 	- Link: http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html 
+ 	- Description: Application of Deep learning for image classification. 
 
 ###Recommended readings: 
  
@@ -42,3 +52,4 @@ This repository holds the list of learning material that we are finding useful w
 ###Other ML learning lists: 
 
  - http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/
+
