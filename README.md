@@ -37,6 +37,9 @@ This repository holds the list of learning material that we are finding useful w
  - Deep learning simplified: 
  	- Link: https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/playlists: 
  	- Description: an easy to grasp simplification of deep learning concepts.
+ - Deep learning Demistified: 
+ 	- Link: https://www.youtube.com/watch?v=GlcnxUlrtek&list=PLK1aXp7PZ2tMrm1h_JDBcJDhIpbQZPOr1 
+ 	- Description: a tutorial series trying to demystify Deep learning concepts 
  - Deep learning in Nutshell: History and training 
  	- Link: http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-history-training/
  	- Description: Nvidia blog tutorial explaining deep learning  
